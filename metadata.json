@@ -1,0 +1,6 @@
+{
+  "name": "LUNA AI",
+  "description": "LUNA AI — आपका स्मार्ट व्यक्तिगत हिंदी वॉइस असिस्टेंट और ICT ट्रेडिंग विशेषज्ञ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LUNA AI</string>
+    <string name="assistant_title">LUNA AI — मेरा पर्सनल हिंदी AI असिस्टेंट</string>
+    <string name="assistant_subtitle">स्मार्ट हिंदी आवाज़, वास्तविक Android टास्क और ICT ट्रेडिंग गाइड</string>
+    <string name="status_ready">नमस्ते! मैं LUNA हूँ। आप क्या करना चाहते हैं?</string>
+    <string name="status_listening">LUNA सुन रही है… (बोलिए)</string>
+    <string name="status_thinking">LUNA विचार कर रही है…</string>
+    <string name="status_speaking">LUNA बोल रही है…</string>
+    <string name="wake_word_label">वेक वर्ड: “लूना” या “Hey Luna”</string>
+    <string name="stop_listening">चुप हो जाओ / Stop</string>
+    <string name="mic_button_desc">माइक चालू / बंद करें</string>
+</resources>
